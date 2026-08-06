@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page</title>
+</head>
+<body>
+  <header>
+    <h3>Name</h3>
+    <nav>
+      <a href="#">HOME</a> |
+      <a href="#">Support</a>
+    </nav>
+  </header>
+  <main>  
+      <h4>About Me</h4>
+      <p>This is a short about me section.</p>
+      <h4>SKILL</h4>
+      <p>python</p>
+   
+    <article>
+      <p>Article Padd Lo</p>
+      <p>Kuch nhi h.</p>
+    </article>
+    <aside>
+    
+    </aside>
+    <a href="https://github.com/ChauhanDev07">mera github</a>
+  </main>
+  <footer>
+    <p>© 2026</p>
+  </footer>
+</body>
+</html>
